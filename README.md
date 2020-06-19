@@ -3,8 +3,24 @@ This repository contains the source code of my implementations for all the proje
 
 ## Projects
 ### Supervised Learning 
-- Finding Donors for CharityML
+- Linear/Logistic regression
+- Decision Trees
+- Naive Bayes
+- Support vector machine
+- Ensemble methods
+- Evaluation Metrics
+- Training and tuning
+- Final Project: Finding donors
+
 ### Deep Learning
-- Image Classifier
+- Introduction to neural network
+- Deep Learning with Tensorflow
+- Final Project: Image Classifier using Tensorflow
+
 ### Unsupervised Learning
-- Customer Segments
+- Clustering
+- Hierarchical and Density Based Clustering
+- GMM and Cluster validation
+- Dimensionality Reduction and PCA
+- ICA
+- Final Project: Identify Customer Segments with-Arvato
